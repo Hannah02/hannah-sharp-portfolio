@@ -15,11 +15,12 @@ max-width: 100%;
   padding: 0;
   font-family: "Lato", sans-serif;}
 
+nav {font-family: "Lato";}
+
 a
 {
   text-decoration: none;
   color: #a51c0a;
-  
   transition: color 0.3s ease;
 }
 
@@ -27,6 +28,8 @@ a:hover
 {
   color: #b4dfc3;
 }
+
+nav {font-family: "Lato";}
 
 #menuToggle
 {
@@ -128,7 +131,7 @@ a:hover
 {
     border: 5px;
     z-index: -100;
-     column-count: 2;
+     column-count: 1;
   position: absolute;
   width: 8vw;
   margin: -120px 0 0 -50px;

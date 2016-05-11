@@ -28,6 +28,8 @@ a:hover
   color: #b4dfc3;
 }
 
+nav {font-family: "Lato";}
+
 #menuToggle
 {
   display: block;
@@ -128,7 +130,7 @@ a:hover
 {
     border: 5px;
     z-index: -100;
-     column-count: 2;
+     column-count: 1;
   position: absolute;
   width: 8vw;
   margin: -120px 0 0 -50px;
