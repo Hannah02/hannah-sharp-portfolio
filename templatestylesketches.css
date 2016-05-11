@@ -15,8 +15,6 @@ max-width: 100%;
   padding: 0;
   font-family: "Lato", sans-serif;}
 
-nav {font-family: "Lato";}
-
 a
 {
   text-decoration: none;
@@ -29,6 +27,8 @@ a:hover
 {
   color: #b4dfc3;
 }
+
+nav {font-family: "Lato";}
 
 #menuToggle
 {
@@ -190,7 +190,7 @@ overflow-x: hidden;}
     border-color: #a51c0a ;}
 
 .Intro hr:first-of-type {
-        margin-top: 11vh;
+        margin-top: 10vh;
     margin-bottom: 2vh;
     width: 20%;
     text-align: center;}
@@ -234,8 +234,8 @@ overflow-x: hidden;}
 
 #Photo {position: absolute;
     z-index: -99;
-    height: 23vh;
-    margin-top: 9.4vh;
-    margin-left: 7vh;
+    height: 55vh;
+    margin-top: 3.5vh;
+    margin-left: 10vh;
     border:x solid #280F25;
 }
